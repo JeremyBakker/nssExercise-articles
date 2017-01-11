@@ -1,0 +1,71 @@
+#wrapper {
+	width: 100%;
+	padding: 0;
+}
+
+.mainHeader {
+	font-family: 'Times New Roman', serif;
+}
+
+#article1 {
+	background-color: yellow;
+	font-family: 'Roboto', sans-serif;
+	color: blue;
+	font-size: 1em;
+	line-height: 20px;
+	padding: 10px;
+	border: 5px solid blue;
+	border-radius: 10px;
+}
+
+#article2 {
+	background-color: lightgray;
+	font-family: 'Arima Madurai', cursive;
+	color: red;
+	font-size: 1.2em;
+	line-height: 30px;
+	padding: 20px;
+	border: 5px solid black;
+	border-radius: 20px;
+}
+
+#article3 {
+	background-color: red;
+	font-family: 'Slabo 27px', serif;
+	color: white;
+	font-size: 1.2em;
+	line-height: 40px;
+	padding: 30px;
+	border: 5px solid green;
+	border-radius: 50px;
+}
+
+#article4 {
+	background-color: black;
+	font-family: 'Lemonada', cursive;
+	color: yellow;
+	font-size: 1.2em;
+	line-height: 50px;
+	padding: 40px;
+	border: 5px solid yellow;
+	border-radius: 80px;
+}
+
+#article5 {
+	background-color: lightblue;
+	font-family: 'Kumar One', cursive;
+	color: purple;
+	font-size: 1.2em;
+	line-height: 60px;
+	padding: 50px;
+	border: 5px solid purple;
+	border-radius: 100px;
+}
+
+.mainFooter {
+	background-color: white;
+	font-family: 'Times New Roman', serif;
+	color: black;
+	font-size: .75em;
+	line-height: normal;
+}
